@@ -1,0 +1,22 @@
+.form-control
+{
+  overflow: hidden;
+  min-height: 600px;
+  border:none;
+  padding-top: 20px;
+}
+.tabBody
+{
+  padding: 10px;
+  min-height:100px;
+  overflow: hidden;
+  border-left: 1px solid #ddd;
+  border-right:1px solid #ddd;
+  border-bottom:1px solid #ddd;
+  border-radius: 0px 0px 10px 10px;
+}
+.badge {
+  color: #fff;
+  margin-left: 5px;
+  background-color: #006600;
+}
